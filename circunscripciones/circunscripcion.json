@@ -1,0 +1,3332 @@
+{
+    "provincias": [
+        {
+            "id": 1,
+            "nombre": "BOCAS DEL TORO",
+            "distritos": [
+                {
+                    "id": 0,
+                    "nombre": "BOCAS DEL TORO",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "BOCAS DEL T. (CABEC.)"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "BASTIMENTOS"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "PUNTA LAUREL"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "CAUCHERO"
+                        },
+                        {
+                            "id": 9,
+                            "nombre": "TIERRA OSCURA"
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "nombre": "CHANGUINOLA",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "CHANGUINOLA (CABEC.)"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "GUABITO"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "EL TERIBE"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "EL EMPALME"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "LAS TABLAS"
+                        },
+                        {
+                            "id": 10,
+                            "nombre": "LAS DELICIAS"
+                        },
+                        {
+                            "id": 11,
+                            "nombre": "COCHIGRÓ"
+                        },
+                        {
+                            "id": 12,
+                            "nombre": "LA GLORIA"
+                        },
+                        {
+                            "id": 13,
+                            "nombre": "FINCA 60"
+                        },
+                        {
+                            "id": 14,
+                            "nombre": "FINCA 6"
+                        },
+                        {
+                            "id": 15,
+                            "nombre": "BARRIADA 4 DE ABRIL"
+                        },
+                        {
+                            "id": 16,
+                            "nombre": "FINCA 30"
+                        },
+                        {
+                            "id": 17,
+                            "nombre": "EL SILENCIO"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "nombre": "CHIRIQUÍ GRANDE",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "CHIRIQUÍ G. (CABEC.)"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "PUNTA ROBALO"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "MIRAMAR"
+                        },
+                        {
+                            "id": 9,
+                            "nombre": "PUNTA PEÑA"
+                        },
+                        {
+                            "id": 10,
+                            "nombre": "RAMBALA"
+                        },
+                        {
+                            "id": 11,
+                            "nombre": "BAJO CEDRO"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "nombre": "ALMIRANTE",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "ALMIRANTE"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "VALLE DE AGUAS ARRIBA"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "VALLE DE RISCO"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "NANCE DE RISCO"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "BARRIO FRANCÉS"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "BARRIADA GUAYMÍ"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "nombre": "COCLÉ",
+            "distritos": [
+                {
+                    "id": 0,
+                    "nombre": "AGUADULCE",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "AGUADULCE (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "EL CRISTO"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "EL ROBLE"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "POCRÍ"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "BARRIOS UNIDOS"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "PUEBLOS UNIDOS"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "VIRGEN DEL CARMEN"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "HATO DE SAN JUAN DE DIOS"
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "nombre": "ANTÓN",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "ANTÓN (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "CABUYA"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "EL CHIRÚ"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "EL RETIRO"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "EL VALLE"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "JUAN DÍAZ"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "RÍO HATO"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "SAN JUAN DE DIOS"
+                        },
+                        {
+                            "id": 9,
+                            "nombre": "SANTA RITA"
+                        },
+                        {
+                            "id": 10,
+                            "nombre": "CABALLERO"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "nombre": "LA PINTADA",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "LA PINTADA (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "EL HARINO"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "EL POTRERO"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "LLANO GRANDE"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "PIEDRAS GORDAS"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "LAS LOMAS"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "LLANO NORTE"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "nombre": "NATÁ",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "NATÁ (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "CAPELLANÍA"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "EL CAÑO"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "GUZMÁN"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "LAS HUACAS"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "TOZA"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "VILLARREAL"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "nombre": "OLÁ",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "OLÁ (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "EL COPÉ"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "EL PALMAR"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "EL PICACHO"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "LA PAVA"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "nombre": "PENONOMÉ",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "PENONOMÉ (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "CAÑAVERAL"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "COCLÉ"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "CHIGUIRÍ ARRIBA"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "EL COCO"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "PAJONAL"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "RÍO GRANDE"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "RÍO INDIO"
+                        },
+                        {
+                            "id": 9,
+                            "nombre": "TOABRÉ"
+                        },
+                        {
+                            "id": 10,
+                            "nombre": "TULÚ"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "nombre": "COLÓN",
+            "distritos": [
+                {
+                    "id": 0,
+                    "nombre": "COLÓN",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "BARRIO NORTE"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "BARRIO SUR"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "BUENA VISTA"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "CATIVÁ"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "CIRICITO"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "CRISTOBAL"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "ESCOBAL"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "LIMÓN"
+                        },
+                        {
+                            "id": 9,
+                            "nombre": "NUEVA PROVIDENCIA"
+                        },
+                        {
+                            "id": 10,
+                            "nombre": "PUERTO PILÓN"
+                        },
+                        {
+                            "id": 11,
+                            "nombre": "SABANITAS"
+                        },
+                        {
+                            "id": 12,
+                            "nombre": "SALAMANCA"
+                        },
+                        {
+                            "id": 13,
+                            "nombre": "SAN JUAN"
+                        },
+                        {
+                            "id": 14,
+                            "nombre": "SANTA ROSA"
+                        },
+                        {
+                            "id": 15,
+                            "nombre": "CRISTOBAL ESTE"
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "nombre": "CHAGRES",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "NVO. CHAGRES (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "ACHIOTE"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "EL GUABO"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "LA ENCANTADA"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "PALMAS BELLAS"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "PIÑA"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "SALUD"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "nombre": "DONOSO",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "M. DE LA BORDA (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "COCLÉ DEL NORTE"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "EL GUÁSIMO"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "GOBEA"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "RÍO INDIO"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "nombre": "PORTOBELO",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "PORTOBELO (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "CACIQUE"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "GARROTE"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "ISLA GRANDE"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "MARÍA CHIQUITA"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "nombre": "SANTA ISABEL",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "PALENQUE (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "CUANGO"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "MIRAMAR"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "NOMBRE DE DIOS"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "PALMIRA"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "PLAYA CHIQUITA"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "SANTA ISABEL"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "VIENTO FRÍO"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "nombre": "OMAR TORRIJOS HERRERA",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "SAN JOSÉ DEL GENERAL"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "SAN JUAN DE TURBE"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "NUEVA ESPERANZA"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "nombre": "CHIRIQUÍ",
+            "distritos": [
+                {
+                    "id": 0,
+                    "nombre": "ALANJE",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "ALANJE (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "DIVALÁ"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "EL TEJAR"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "GUARUMAL"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "PALO GRANDE"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "QUERÉVALO"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "SANTO TOMÁS"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "CANTA GALLO"
+                        },
+                        {
+                            "id": 9,
+                            "nombre": "NUEVO MÉXICO"
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "nombre": "BARÚ",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "PTO. ARMUELLES (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "LIMONES"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "PROGRESO"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "BACO"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "RODOLFO AGUILAR DELGADO"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "EL PALMAR"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "MANACA"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "nombre": "BOQUERÓN",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "BOQUERÓN (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "BÁGALA"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "CORDILLERA"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "GUABAL"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "GUAYABAL"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "PARAÍSO"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "PEDREGAL"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "TIJERAS"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "nombre": "BOQUETE",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "BAJO BOQUETE (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "CALDERA"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "PALMIRA"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "ALTO BOQUETE"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "JARAMILLO"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "LOS NARANJOS"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "nombre": "BUGABA",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "LA CONCEPCIÓN (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "ASERRÍO DE GARICHÉ"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "BUGABA"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "GÓMEZ"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "LA ESTRELLA"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "SAN ANDRÉS"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "SANTA MARTA"
+                        },
+                        {
+                            "id": 9,
+                            "nombre": "SANTA ROSA"
+                        },
+                        {
+                            "id": 10,
+                            "nombre": "SANTO DOMINGO"
+                        },
+                        {
+                            "id": 11,
+                            "nombre": "SORTOVÁ"
+                        },
+                        {
+                            "id": 13,
+                            "nombre": "EL BONGO"
+                        },
+                        {
+                            "id": 14,
+                            "nombre": "SOLANO"
+                        },
+                        {
+                            "id": 15,
+                            "nombre": "SAN ISIDRO"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "nombre": "DAVID",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "DAVID (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "BIJAGUAL"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "COCHEA"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "CHIRIQUÍ"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "GUACÁ"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "LAS LOMAS"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "PEDREGAL"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "SAN CARLOS"
+                        },
+                        {
+                            "id": 9,
+                            "nombre": "SAN PABLO NUEVO"
+                        },
+                        {
+                            "id": 10,
+                            "nombre": "SAN PABLO VIEJO"
+                        },
+                        {
+                            "id": 11,
+                            "nombre": "DAVID ESTE"
+                        },
+                        {
+                            "id": 12,
+                            "nombre": "DAVID SUR"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "nombre": "DOLEGA",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "DOLEGA (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "DOS RÍOS"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "LOS ANASTACIOS"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "POTRERILLOS"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "POTRERILLOS ABAJO"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "ROVIRA"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "TINAJAS"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "LOS ALGARROBOS"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "nombre": "GUALACA",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "GUALACA (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "HORNITO"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "LOS ÁNGELES"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "PAJA DE SOMBRERO"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "RINCÓN"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "nombre": "REMEDIOS",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "REMEDIOS (CABEC.)"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "EL NANCITO"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "EL PORVENIR"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "EL PUERTO"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "SANTA LUCÍA"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "nombre": "RENACIMIENTO",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "RÍO SERENO (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "BREÑÓN"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "CAÑAS GORDAS"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "MONTE LIRIO"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "PLAZA DE CAISÁN"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "SANTA CRUZ"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "SANTA CLARA"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "DOMINICAL"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "nombre": "SAN LORENZO",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "HORCONCITOS (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "BOCA CHICA"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "BOCA DEL MONTE"
+                        },
+                        {
+                            "id": 9,
+                            "nombre": "SAN JUAN"
+                        },
+                        {
+                            "id": 10,
+                            "nombre": "SAN LORENZO"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "nombre": "TOLÉ",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "TOLÉ (CABEC.)"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "CERRO VIEJO"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "LAJAS DE TOLÉ"
+                        },
+                        {
+                            "id": 11,
+                            "nombre": "POTRERO DE CAÑA"
+                        },
+                        {
+                            "id": 12,
+                            "nombre": "QDA. DE PIEDRA"
+                        },
+                        {
+                            "id": 14,
+                            "nombre": "BELLA VISTA"
+                        },
+                        {
+                            "id": 15,
+                            "nombre": "EL CRISTO"
+                        },
+                        {
+                            "id": 16,
+                            "nombre": "JUSTO FIDEL PALACIOS"
+                        },
+                        {
+                            "id": 17,
+                            "nombre": "VELADERO"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "nombre": "SAN FÉLIX",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "LAS LAJAS (CABEC.)"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "JUAY"
+                        },
+                        {
+                            "id": 11,
+                            "nombre": "SAN FÉLIX"
+                        },
+                        {
+                            "id": 12,
+                            "nombre": "LAJAS ADENTRO"
+                        },
+                        {
+                            "id": 13,
+                            "nombre": "SANTA CRUZ"
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "nombre": "TIERRAS ALTAS",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "CUESTA DE PIEDRA"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "VOLCÁN"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "PASO ANCHO"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "CERRO PUNTA"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "NUEVA CALIFORNIA"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "nombre": "DARIÉN",
+            "distritos": [
+                {
+                    "id": 0,
+                    "nombre": "CHEPIGANA",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "LA PALMA (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "CAMOGANTÍ"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "CHEPIGANA"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "GARACHINÉ"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "JAQUÉ"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "PUERTO PIÑA"
+                        },
+                        {
+                            "id": 9,
+                            "nombre": "SAMBÚ"
+                        },
+                        {
+                            "id": 10,
+                            "nombre": "SETEGANTÍ"
+                        },
+                        {
+                            "id": 11,
+                            "nombre": "TAIMATÍ"
+                        },
+                        {
+                            "id": 12,
+                            "nombre": "TUCUTÍ"
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "nombre": "PINOGANA",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "EL REAL S.M. (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "BOCA DE CUPE"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "PAYA"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "PINOGANA"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "PÚCURO"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "YAPE"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "YAVIZA"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "METETÍ"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "nombre": "CÉMACO",
+                    "corregimientos": []
+                },
+                {
+                    "id": 3,
+                    "nombre": "SAMBÚ",
+                    "corregimientos": []
+                },
+                {
+                    "id": 4,
+                    "nombre": "SANTA FE",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "AGUA FRIA"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "CUCUNATÍ"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "RÍO CONGO"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "RÍO CONGO ARRIBA"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "RÍO IGLESIAS"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "SANTA FE"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "ZAPALLAL"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "nombre": "HERRERA",
+            "distritos": [
+                {
+                    "id": 0,
+                    "nombre": "CHITRÉ",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "CHITRÉ (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "LA ARENA"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "MONAGRILLO"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "SAN JUAN BAUTISTA"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "LLANO BONITO"
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "nombre": "LAS MINAS",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "LAS MINAS (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "CHEPO"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "CHUMICAL"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "EL TORO"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "LEONES"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "QDA. DEL ROSARIO"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "QUEBRADA EL CIPRIÁN"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "nombre": "LOS POZOS",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "LOS POZOS (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "CAPURÍ"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "EL CALABACITO"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "EL CEDRO"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "LA ARENA"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "LA PITALOZA"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "LOS CERRITOS"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "LOS CERROS DE PAJA"
+                        },
+                        {
+                            "id": 9,
+                            "nombre": "LAS LLANAS"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "nombre": "OCÚ",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "OCÚ (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "CERRO LARGO"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "LOS LLANOS"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "LLANO GRANDE"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "PEÑAS CHATAS"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "EL TIJERA"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "MENCHACA"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "ENTRADERO DEL CASTILLO"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "nombre": "PARITA",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "PARITA (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "CABUYA"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "LOS CASTILLOS"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "LLANO DE LA CRUZ"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "PARÍS"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "PORTOBELILLO"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "POTUGA"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "nombre": "PESÉ",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "PESÉ (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "LAS CABRAS"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "EL PÁJARO"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "EL BARRERO"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "EL PEDREGOSO"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "EL CIRUELO"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "SABANA GRANDE"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "RINCÓN HONDO"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "nombre": "SANTA MARÍA",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "SANTA MARÍA (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "CHUPAMPA"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "EL RINCÓN"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "EL LIMÓN"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "LOS CANELOS"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "nombre": "LOS SANTOS",
+            "distritos": [
+                {
+                    "id": 0,
+                    "nombre": "GUARARÉ",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "GUARARÉ (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "EL ESPINAL"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "EL MACANO"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "GUARARÉ ARRIBA"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "LA ENEA"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "LA PASERA"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "LAS TRANCAS"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "LLANO ABAJO"
+                        },
+                        {
+                            "id": 9,
+                            "nombre": "EL HATO"
+                        },
+                        {
+                            "id": 10,
+                            "nombre": "PERALES"
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "nombre": "LAS TABLAS",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "LAS TABLAS (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "BAJO CORRAL"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "BAYANO"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "CARATE"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "EL COCAL"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "EL MANANTIAL"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "EL MUÑOZ"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "EL PEDREGOSO"
+                        },
+                        {
+                            "id": 9,
+                            "nombre": "LA LAJA"
+                        },
+                        {
+                            "id": 10,
+                            "nombre": "LA MIEL"
+                        },
+                        {
+                            "id": 11,
+                            "nombre": "LA PALMA"
+                        },
+                        {
+                            "id": 12,
+                            "nombre": "LA TIZA"
+                        },
+                        {
+                            "id": 13,
+                            "nombre": "LAS PALMITAS"
+                        },
+                        {
+                            "id": 14,
+                            "nombre": "LAS TABLAS ABAJO"
+                        },
+                        {
+                            "id": 15,
+                            "nombre": "NUARIO"
+                        },
+                        {
+                            "id": 16,
+                            "nombre": "PALMIRA"
+                        },
+                        {
+                            "id": 17,
+                            "nombre": "PEÑA BLANCA"
+                        },
+                        {
+                            "id": 18,
+                            "nombre": "RÍO HONDO"
+                        },
+                        {
+                            "id": 19,
+                            "nombre": "SAN JOSÉ"
+                        },
+                        {
+                            "id": 20,
+                            "nombre": "SAN MIGUEL"
+                        },
+                        {
+                            "id": 21,
+                            "nombre": "SANTO DOMINGO"
+                        },
+                        {
+                            "id": 22,
+                            "nombre": "EL SESTEADERO"
+                        },
+                        {
+                            "id": 23,
+                            "nombre": "VALLE RICO"
+                        },
+                        {
+                            "id": 24,
+                            "nombre": "VALLERRIQUITO"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "nombre": "LOS SANTOS",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "LA VILLA DE LOS SANTOS"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "EL GUÁSIMO"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "LA COLORADA"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "LA ESPIGADILLA"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "LAS CRUCES"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "LAS GUABAS"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "LOS ÁNGELES"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "LOS OLIVOS"
+                        },
+                        {
+                            "id": 9,
+                            "nombre": "LLANO LARGO"
+                        },
+                        {
+                            "id": 10,
+                            "nombre": "SABANAGRANDE"
+                        },
+                        {
+                            "id": 11,
+                            "nombre": "SANTA ANA"
+                        },
+                        {
+                            "id": 12,
+                            "nombre": "TRES QUEBRADAS"
+                        },
+                        {
+                            "id": 13,
+                            "nombre": "VILLA LOURDES"
+                        },
+                        {
+                            "id": 14,
+                            "nombre": "AGUA BUENA"
+                        },
+                        {
+                            "id": 15,
+                            "nombre": "EL EJIDO"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "nombre": "MACARACAS",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "MACARACAS (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "BAHÍA HONDA"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "BAJOS DE GÜERA"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "COROZAL"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "CHUPÁ"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "EL CEDRO"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "ESPINO AMARILLO"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "LA MESA"
+                        },
+                        {
+                            "id": 9,
+                            "nombre": "LAS PALMAS"
+                        },
+                        {
+                            "id": 10,
+                            "nombre": "LLANO DE PIEDRA"
+                        },
+                        {
+                            "id": 11,
+                            "nombre": "MOGOLLÓN"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "nombre": "PEDASÍ",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "PEDASÍ (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "LOS ASIENTOS"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "MARIABÉ"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "PÚRIO"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "ORIA ARRIBA"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "nombre": "POCRÍ",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "POCRÍ (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "EL CAÑAFÍSTULO"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "LAJAMINAS"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "PARAÍSO"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "PARITILLA"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "nombre": "TONOSÍ",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "TONOSÍ (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "ALTOS DE GÜERA"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "CAÑAS"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "EL BEBEDERO"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "EL CACAO"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "EL CORTEZO"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "FLORES"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "GUÁNICO"
+                        },
+                        {
+                            "id": 9,
+                            "nombre": "LA TRONOSA"
+                        },
+                        {
+                            "id": 10,
+                            "nombre": "CAMBUTAL"
+                        },
+                        {
+                            "id": 11,
+                            "nombre": "ISLA DE CAÑAS"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "nombre": "PANAMÁ",
+            "distritos": [
+                {
+                    "id": 1,
+                    "nombre": "BALBOA",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "SAN MIGUEL (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "LA ENSENADA"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "LA ESMERALDA"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "LA GUINEA"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "PEDRO GONZÁLEZ"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "SABOGA"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "nombre": "CHEPO",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "CHEPO (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "CAÑITA"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "CHEPILLO"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "EL LLANO"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "LAS MARGARITAS"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "STA. CRUZ DE CHININA"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "TORTÍ"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "nombre": "CHIMÁN",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "CHIMÁN (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "BRUJAS"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "GONZALO VÁSQUEZ"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "UNIÓN SANTEÑA"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "PÁSIGA"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "nombre": "PANAMÁ",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "SAN FELIPE"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "EL CHORRILLO"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "SANTA ANA"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "CALIDONIA"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "CURUNDÚ"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "BETANIA"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "BELLA VISTA"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "PUEBLO NUEVO"
+                        },
+                        {
+                            "id": 9,
+                            "nombre": "SAN FRANCISCO"
+                        },
+                        {
+                            "id": 10,
+                            "nombre": "PARQUE LEFEVRE"
+                        },
+                        {
+                            "id": 11,
+                            "nombre": "RÍO ABAJO"
+                        },
+                        {
+                            "id": 12,
+                            "nombre": "JUAN DÍAZ"
+                        },
+                        {
+                            "id": 13,
+                            "nombre": "PEDREGAL"
+                        },
+                        {
+                            "id": 14,
+                            "nombre": "ANCÓN"
+                        },
+                        {
+                            "id": 15,
+                            "nombre": "CHILIBRE"
+                        },
+                        {
+                            "id": 16,
+                            "nombre": "LAS CUMBRES"
+                        },
+                        {
+                            "id": 17,
+                            "nombre": "PACORA"
+                        },
+                        {
+                            "id": 18,
+                            "nombre": "SAN MARTÍN"
+                        },
+                        {
+                            "id": 19,
+                            "nombre": "TOCUMEN"
+                        },
+                        {
+                            "id": 20,
+                            "nombre": "LAS MAÑANITAS"
+                        },
+                        {
+                            "id": 21,
+                            "nombre": "24 DE DICIEMBRE"
+                        },
+                        {
+                            "id": 22,
+                            "nombre": "ALCALDE DÍAZ"
+                        },
+                        {
+                            "id": 23,
+                            "nombre": "ERNESTO CÓRDOBA CAMPOS"
+                        },
+                        {
+                            "id": 100,
+                            "nombre": "DON BOSCO"
+                        },
+                        {
+                            "id": 101,
+                            "nombre": "LAS GARZAS"
+                        },
+                        {
+                            "id": 102,
+                            "nombre": "CAIMITILLO"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "nombre": "SAN MIGUELITO",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "AMELIA D. DE ICAZA"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "BELISARIO PORRAS"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "JOSÉ D. ESPINAR"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "MATEO ITURRALDE"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "VICTORIANO LORENZO"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "ARNULFO ARIAS"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "BELISARIO FRÍAS"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "OMAR TORRIJOS"
+                        },
+                        {
+                            "id": 9,
+                            "nombre": "RUFINA ALFARO"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "nombre": "TABOGA",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "TABOGA (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "OTOQUE OCCIDENTE"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "OTOQUE ORIENTE"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "nombre": "VERAGUAS",
+            "distritos": [
+                {
+                    "id": 0,
+                    "nombre": "ATALAYA",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "ATALAYA (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "EL BARRITO"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "LA MONTAÑUELA"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "SAN ANTONIO"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "LA CARRILLO"
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "nombre": "CALOBRE",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "CALOBRE (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "BARNIZAL"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "CHITRA"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "EL COCLA"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "EL POTRERO"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "LA LAGUNA"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "LA RAYA DE CALOBRE"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "LA TETILLA"
+                        },
+                        {
+                            "id": 9,
+                            "nombre": "LA YEGUADA"
+                        },
+                        {
+                            "id": 10,
+                            "nombre": "LAS GUÍAS"
+                        },
+                        {
+                            "id": 11,
+                            "nombre": "MONJARÁS"
+                        },
+                        {
+                            "id": 12,
+                            "nombre": "SAN JOSÉ"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "nombre": "CAÑAZAS",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "CAÑAZAS (CABEC.)"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "CERRO DE PLATA"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "LOS VALLES"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "SAN MARCELO"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "EL PICADOR"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "SAN JOSÉ"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "EL AROMILLO"
+                        },
+                        {
+                            "id": 10,
+                            "nombre": "LAS CRUCES"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "nombre": "LA MESA",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "LA MESA (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "BISVALLES"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "BORÓ"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "LLANO GRANDE"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "SAN BARTOLO"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "LOS MILAGROS"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "EL HIGO"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "nombre": "LAS PALMAS",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "LAS PALMAS (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "CERRO DE CASA"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "COROZAL"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "EL MARÍA"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "EL PRADO"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "EL RINCÓN"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "LOLÁ"
+                        },
+                        {
+                            "id": 9,
+                            "nombre": "PIXVAE"
+                        },
+                        {
+                            "id": 10,
+                            "nombre": "PUERTO VIDAL"
+                        },
+                        {
+                            "id": 11,
+                            "nombre": "ZAPOTILLO"
+                        },
+                        {
+                            "id": 12,
+                            "nombre": "SAN MARTÍN DE PORRES"
+                        },
+                        {
+                            "id": 13,
+                            "nombre": "VIGUÍ"
+                        },
+                        {
+                            "id": 14,
+                            "nombre": "MANUEL E. AMADOR TERRERO"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "nombre": "MONTIJO",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "MONTIJO (CABEC.)"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "GOBERNADORA"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "LA GARCEANA"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "LEONES"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "PILÓN"
+                        },
+                        {
+                            "id": 10,
+                            "nombre": "UNIÓN DEL NORTE"
+                        },
+                        {
+                            "id": 11,
+                            "nombre": "COSTA HERMOSA"
+                        },
+                        {
+                            "id": 12,
+                            "nombre": "CÉBACO"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "nombre": "RÍO DE JESÚS",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "RÍO DE JESÚS (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "LAS HUACAS"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "LOS CASTILLOS"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "UTIRA"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "CATORCE DE NOVIEMBRE"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "nombre": "SAN FRANCISCO",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "SAN FCO. (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "CORRAL FALSO"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "LOS HATILLOS"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "REMANCE"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "SAN JUAN"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "SAN JOSÉ"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "nombre": "SANTA FE",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "SANTA FE (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "CALOVÉBORA"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "EL ALTO"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "EL CUAY"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "EL PANTANO"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "GATUNCITO"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "RÍO LUIS"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "RUBÉN CANTÚ"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "nombre": "SANTIAGO",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "SANTIAGO (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "LA COLORADA"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "LA PEÑA"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "LA RAYA DE STA. MARÍA"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "PONUGA"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "SAN PEDRO DEL ESPINO"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "CANTO DEL LLANO"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "LOS ALGARROBOS"
+                        },
+                        {
+                            "id": 9,
+                            "nombre": "CARLOS SANTANA"
+                        },
+                        {
+                            "id": 10,
+                            "nombre": "EDWIN FÁBREGA"
+                        },
+                        {
+                            "id": 11,
+                            "nombre": "SAN MARTÍN DE PORRES"
+                        },
+                        {
+                            "id": 12,
+                            "nombre": "URRACÁ"
+                        },
+                        {
+                            "id": 13,
+                            "nombre": "RODRIGO LUQUE"
+                        },
+                        {
+                            "id": 14,
+                            "nombre": "SANTIAGO ESTE"
+                        },
+                        {
+                            "id": 15,
+                            "nombre": "NUEVO SANTIAGO"
+                        },
+                        {
+                            "id": 16,
+                            "nombre": "SANTIAGO SUR"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "nombre": "SONÁ",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "SONÁ (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "BAHÍA HONDA"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "CALIDONIA"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "CATIVÉ"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "EL MARAÑÓN"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "GUARUMAL"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "LA SOLEDAD"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "QDA. DE ORO"
+                        },
+                        {
+                            "id": 9,
+                            "nombre": "RÍO GRANDE"
+                        },
+                        {
+                            "id": 10,
+                            "nombre": "RODEO VIEJO"
+                        },
+                        {
+                            "id": 11,
+                            "nombre": "HICACO"
+                        },
+                        {
+                            "id": 12,
+                            "nombre": "LA TRINCHERA"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "nombre": "MARIATO",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "LLANO DE CATIVAL"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "ARENA"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "QUEBRO"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "TEBARIO"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "EL CACAO"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "nombre": "COMARCA KUNA YALA",
+            "distritos": [
+                {
+                    "id": 12,
+                    "nombre": "",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "AILIGANDÍ"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "NARGANÁ"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "PUERTO OBALDÍA"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "TUBUALÁ"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "nombre": "COMARCA EMBERA",
+            "distritos": [
+                {
+                    "id": 0,
+                    "nombre": "CÉMACO",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "CIRILO GUAYNORA"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "LAJAS BLANCAS"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "MANUEL ORTEGA"
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "nombre": "SAMBÚ",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "JINGURUDÓ"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "RÍO SÁBALO"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "nombre": "COMARCA NGÄBE-BUGLÉ",
+            "distritos": [
+                {
+                    "id": 0,
+                    "nombre": "KANKINTÚ",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "BISIRA"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "KANKINTÚ"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "GUORONI"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "MUNUNI"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "PIEDRA ROJA"
+                        },
+                        {
+                            "id": 10,
+                            "nombre": "TOLOTE"
+                        },
+                        {
+                            "id": 11,
+                            "nombre": "CALANTE"
+                        }
+                    ]
+                },
+                {
+                    "id": 1,
+                    "nombre": "KUSAPÍN",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "KUSAPÍN"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "BAHÍA AZUL"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "RÍO CHIRIQUÍ"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "TOBOBE"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "CAÑAVERAL"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "nombre": "BESIKO",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "SOLOY"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "BOCA DE BALSA"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "CERRO BANCO"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "CERRO DE PATENA"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "CAMARÓN ARRIBA"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "EMPLANADA DE CHORCHA"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "NAMNONI"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "NIBA"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "nombre": "MIRONÓ",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "HATO PILÓN"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "CASCABEL"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "HATO COROTÚ"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "HATO CULANTRO"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "HATO JOBO"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "HATO JULÍ"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "QUEBRADA DE LORO"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "SALTO DUPI"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "nombre": "MÜNA",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "CHICHICA"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "ALTO CABALLERO"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "BAGAMA"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "CERRO CAÑA"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "CERRO PUERCO"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "KRÚA"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "MARACA"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "NIBRA"
+                        },
+                        {
+                            "id": 9,
+                            "nombre": "PEÑA BLANCA"
+                        },
+                        {
+                            "id": 10,
+                            "nombre": "ROKARI"
+                        },
+                        {
+                            "id": 11,
+                            "nombre": "SITIO PRADO"
+                        },
+                        {
+                            "id": 12,
+                            "nombre": "UMANI"
+                        },
+                        {
+                            "id": 13,
+                            "nombre": "DIKO"
+                        },
+                        {
+                            "id": 14,
+                            "nombre": "KIKARI"
+                        },
+                        {
+                            "id": 15,
+                            "nombre": "MREENI"
+                        },
+                        {
+                            "id": 16,
+                            "nombre": "DIKERI"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "nombre": "NOLE DÜIMA",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "CERRO IGLESIAS"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "LAJERO"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "HATO CHAMÍ"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "SUSAMÁ"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "JADEBERI"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "nombre": "ÑÜRUN",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "BUENOS AIRES"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "AGUA DE SALUD"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "ALTO DE JESÚS"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "CERRO PELADO"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "EL BALE"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "EL PAREDÓN"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "EL PIRO"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "GUAYABITO"
+                        },
+                        {
+                            "id": 9,
+                            "nombre": "GUIBALE"
+                        },
+                        {
+                            "id": 10,
+                            "nombre": "EL PIRO N° 2"
+                        },
+                        {
+                            "id": 11,
+                            "nombre": "EL PEÑON"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "nombre": "JIRONDAI",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "BURI"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "GWARIBIARA"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "TU GWAI"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "MANCREEK"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "SAMBOA"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "nombre": "SANTA CATALINA O CALOVÉBORA (BLEDESHIA)",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "SANTA CATALINA O CALOVÉBORA"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "VALLE BONITO (DOGATA)"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "LOMA YUCA"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "SAN PEDRITO (JIKUI)"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "ALTO BILINGUE (GDOGUESHIA)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "nombre": "PANAMÁ OESTE",
+            "distritos": [
+                {
+                    "id": 1,
+                    "nombre": "ARRAIJÁN",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "ARRAIJÁN (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "JUAN D. AROSEMENA"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "NUEVO EMPERADOR"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "SANTA CLARA"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "VERACRUZ"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "VISTA ALEGRE"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "BURUNGA"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "CERRO SILVESTRE"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "nombre": "CAPIRA",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "CAPIRA (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "CAIMITO"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "CAMPANA"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "CERMEÑO"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "CIRÍ DE LOS SOTOS"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "CIRÍ GRANDE"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "EL CACAO"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "LA TRINIDAD"
+                        },
+                        {
+                            "id": 9,
+                            "nombre": "LAS OLLAS ARRIBA"
+                        },
+                        {
+                            "id": 10,
+                            "nombre": "LÍDICE"
+                        },
+                        {
+                            "id": 11,
+                            "nombre": "VILLA CARMEN"
+                        },
+                        {
+                            "id": 12,
+                            "nombre": "VILLA ROSARIO"
+                        },
+                        {
+                            "id": 13,
+                            "nombre": "SANTA ROSA"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "nombre": "CHAME",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "CHAME (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "BEJUCO"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "BUENOS AIRES"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "CABUYA"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "CHICÁ"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "EL LÍBANO"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "LAS LAJAS"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "NUEVA GORGONA"
+                        },
+                        {
+                            "id": 9,
+                            "nombre": "PUNTA CHAME"
+                        },
+                        {
+                            "id": 10,
+                            "nombre": "SAJALICES"
+                        },
+                        {
+                            "id": 11,
+                            "nombre": "SORÁ"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "nombre": "LA CHORRERA",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "BARRIO BALBOA"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "BARRIO COLÓN"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "AMADOR"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "AROSEMENA"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "EL ARADO"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "EL COCO"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "FEUILLET"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "GUADALUPE"
+                        },
+                        {
+                            "id": 9,
+                            "nombre": "HERRERA"
+                        },
+                        {
+                            "id": 10,
+                            "nombre": "HURTADO"
+                        },
+                        {
+                            "id": 11,
+                            "nombre": "ITURRALDE"
+                        },
+                        {
+                            "id": 12,
+                            "nombre": "LA REPRESA"
+                        },
+                        {
+                            "id": 13,
+                            "nombre": "LOS DÍAZ"
+                        },
+                        {
+                            "id": 14,
+                            "nombre": "MENDOZA"
+                        },
+                        {
+                            "id": 15,
+                            "nombre": "OBALDÍA"
+                        },
+                        {
+                            "id": 16,
+                            "nombre": "PLAYA LEONA"
+                        },
+                        {
+                            "id": 17,
+                            "nombre": "PUERTO CAIMITO"
+                        },
+                        {
+                            "id": 18,
+                            "nombre": "SANTA RITA"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "nombre": "SAN CARLOS",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "SAN CARLOS (CABEC.)"
+                        },
+                        {
+                            "id": 2,
+                            "nombre": "EL ESPINO"
+                        },
+                        {
+                            "id": 3,
+                            "nombre": "EL HIGO"
+                        },
+                        {
+                            "id": 4,
+                            "nombre": "GUAYABITO"
+                        },
+                        {
+                            "id": 5,
+                            "nombre": "LA ERMITA"
+                        },
+                        {
+                            "id": 6,
+                            "nombre": "LA LAGUNA"
+                        },
+                        {
+                            "id": 7,
+                            "nombre": "LAS UVAS"
+                        },
+                        {
+                            "id": 8,
+                            "nombre": "LOS LLANITOS"
+                        },
+                        {
+                            "id": 9,
+                            "nombre": "SAN JOSÉ"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "nombre": "C.KUNA DE MADUNGANDI",
+            "distritos": [
+                {
+                    "id": 0,
+                    "nombre": "",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "KUNA DE MADUNGANDI"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "nombre": "COMARCA KUNA DE WARGANDI",
+            "distritos": [
+                {
+                    "id": 0,
+                    "nombre": "",
+                    "corregimientos": [
+                        {
+                            "id": 1,
+                            "nombre": "KUNA DE WARGANDI"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
